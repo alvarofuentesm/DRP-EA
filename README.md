@@ -92,7 +92,7 @@ Number of Original AED's: número de AED's originales
 
 Por motivos desconocidos la instancia SJC-DRP-AEDs/SJC500-7 tiene problemas para hacer free() sobre la poblacion_actual, por lo que no se realiza esta liberación. 
 
-# Represetación
+# Representación
 
 Una representación apropiada para este problema es una adaptación de la descrita por Jaramillo et al. (2002) para algoritmos genéticos en problemas de ubicación Maximum Covering. Proponen el uso de un string binario como cromosoma de largo equivalente a los potenciales sitios de instalaciones, en donde un valor 1 en el i-ésimo bit implica una instalación en el i-ésimo sitio.
 
