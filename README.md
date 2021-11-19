@@ -1,4 +1,4 @@
-# DRP-EA: Defibrillator Relocation Problem (DRP) con Algoritmo Evolutivo.
+# DRP-EA: Defibrillator Relocation Problem (DRP)  with Evolutionary Algorithms (EA)
 
 
 TO-DO: translate to english. 
