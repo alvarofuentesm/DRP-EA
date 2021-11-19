@@ -17,15 +17,21 @@ El propósito de este trabajo es un exponer un trabajo investigativo acerca de e
 
 Para compilar ejecutar:
 
+```
 make
+```
 
 Para correr el algoritmo sobre una instancia particular descomentar el parámetro config correspondiente a la instancia en el archivo Makefile. Por defecto esta descomentada la instancia SJC-DRP-AEDs/SJC324-3. Posteriormente ejecutar:
 
+```
 make run
+```
 
 Para limpiar los archivos de compilación ejecutar:
 
+```
 make clean
+```
 
 ###  Parámetros necesarios para ejecutar el algoritmo
 
@@ -54,12 +60,15 @@ prob_mutation_original_AED: probabilidad de aplicar operador de mutación (reubi
 
 Ejecutar la instancia SJC-DRP-AEDs/SJC324-3 usando MakeFile:
 
+```
 make run
+```
 
 Ejecutar la instancia SJC-DRP-AEDs/SJC324-3  sin MakeFile:
 
+```
 /usr/bin/time -p ./DRP+AE Instancias/SJC-DRP-AEDs/SJC324-3.txt 123 0 5000 1 0.2 200 50 1 10
-
+```
 
 ### Datos adicionales output:
 
